@@ -1,12 +1,13 @@
 <?php
 require_once('../Constant.php');
 require_once('../Sessions.php');
+include('server/database.php');
 include('config/head.php');
 include('config/functions.php');
 
+
 //get user data
 $userData = userData('staff');
-
 
 
 ?>

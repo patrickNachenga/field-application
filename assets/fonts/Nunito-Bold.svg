@@ -665,7 +665,7 @@ q19 20 43 20q20 0 34.5 -14.5t14.5 -33.5q0 -13 -8.5 -25t-25.5 -21l-113 -66q-8 -4 
     <glyph glyph-name="Ubreve" unicode="&#x16c;" horiz-adv-x="733" 
 d="M147 66q-75 75 -75 219v361q0 29 17 46.5t46 17.5t46 -17.5t17 -46.5v-368q0 -91 43 -137.5t126 -46.5q82 0 125 47t43 137v368q0 29 17 46.5t46 17.5t46 -17.5t17 -46.5v-361q0 -143 -75 -218.5t-219 -75.5q-145 0 -220 75zM268 796q-43 21 -63 58q-6 12 -6 23
 q0 15 10 24t25 9q18 0 34 -16q34 -41 99 -41t99 41q16 16 35 16q15 0 24.5 -9t9.5 -24q0 -11 -6 -23q-20 -37 -63 -58t-99 -21t-99 21z" />
-    <glyph glyph-name="Ucircumflex" unicode="&#xdb;" horiz-adv-x="733" 
+    <glyph glyph-name="Ucircumflex" unicode="&#x$DB;" horiz-adv-x="733" 
 d="M147 66q-75 75 -75 219v361q0 29 17 46.5t46 17.5t46 -17.5t17 -46.5v-368q0 -91 43 -137.5t126 -46.5q82 0 125 47t43 137v368q0 29 17 46.5t46 17.5t46 -17.5t17 -46.5v-361q0 -143 -75 -218.5t-219 -75.5q-145 0 -220 75zM261 760q-16 0 -27.5 11.5t-11.5 26.5
 q0 17 16 30l83 77q21 18 46 18t46 -18l83 -77q15 -14 15 -31q0 -15 -11 -26t-27 -11q-17 0 -31 14l-75 77l-75 -77q-14 -14 -31 -14z" />
     <glyph glyph-name="uni0214" unicode="&#x214;" horiz-adv-x="733" 
@@ -1280,7 +1280,7 @@ q-1 -13 -11.5 -21z" />
     <glyph glyph-name="ohorn" unicode="&#x1a1;" horiz-adv-x="575" 
 d="M517.5 356.5q19.5 -49.5 19.5 -110.5q0 -77 -30.5 -134.5t-87 -88.5t-131.5 -31t-131.5 31t-87.5 88.5t-31 134.5q0 78 31 135.5t87.5 88.5t131.5 31q21 0 49 -4q15 -3 28 -3q35 0 54 17.5t23 59.5q6 57 61 57q26 0 38.5 -13.5t12.5 -42.5q0 -45 -25 -81t-69 -52
 q38 -33 57.5 -82.5zM380 128.5q32 39.5 32 117.5t-32 118.5t-92 40.5t-92.5 -40.5t-32.5 -118.5q0 -77 32 -117t92 -40q61 0 93 39.5z" />
-    <glyph glyph-name="uni1EDB" unicode="&#x1edb;" horiz-adv-x="575" 
+    <glyph glyph-name="uni1E$DB" unicode="&#x1e$DB;" horiz-adv-x="575" 
 d="M517.5 356.5q19.5 -49.5 19.5 -110.5q0 -77 -30.5 -134.5t-87 -88.5t-131.5 -31t-131.5 31t-87.5 88.5t-31 134.5q0 78 31 135.5t87.5 88.5t131.5 31q21 0 49 -4q15 -3 28 -3q35 0 54 17.5t23 59.5q6 57 61 57q26 0 38.5 -13.5t12.5 -42.5q0 -45 -25 -81t-69 -52
 q38 -33 57.5 -82.5zM380 128.5q32 39.5 32 117.5t-32 118.5t-92 40.5t-92.5 -40.5t-32.5 -118.5q0 -77 32 -117t92 -40q61 0 93 39.5zM291 548q-14 0 -23.5 9.5t-9.5 22.5q0 11 8 22l97 129q23 30 53 30q22 0 37.5 -15.5t15.5 -36.5q0 -28 -27 -48l-129 -105q-11 -8 -22 -8z
 " />
@@ -1420,7 +1420,7 @@ t18.5 -45q0 -29 -18.5 -46.5t-47.5 -17.5t-47.5 17.5z" />
 d="M66 35q-32 19 -32 54q0 20 11 32.5t27 12.5q17 0 47 -16q32 -15 58.5 -23t67.5 -8q42 0 65.5 14t23.5 39q0 17 -9.5 27t-34 18.5t-74.5 19.5q-89 18 -127.5 51t-38.5 91q0 44 26 79.5t71.5 55t103.5 19.5q42 0 81 -10.5t70 -30.5q32 -20 32 -53q0 -20 -11 -33.5
 t-27 -13.5q-11 0 -21.5 4.5t-26.5 13.5q-29 15 -50 22.5t-52 7.5q-37 0 -58.5 -15t-21.5 -41q0 -25 22 -38t85 -26q67 -14 105 -32t54.5 -45t16.5 -69q0 -68 -56.5 -109t-150.5 -41q-109 0 -176 43zM194.5 -180.5q-18.5 17.5 -18.5 46.5q0 28 18 45t48 17q29 0 47.5 -17
 t18.5 -45q0 -29 -18.5 -46.5t-47.5 -17.5t-47.5 17.5zM197 606.5q-20 18.5 -20 48.5t20 48t54 18q33 0 53.5 -18t20.5 -48t-20 -48.5t-54 -18.5t-54 18.5z" />
-    <glyph glyph-name="germandbls" unicode="&#xdf;" horiz-adv-x="655" 
+    <glyph glyph-name="german$DBls" unicode="&#xdf;" horiz-adv-x="655" 
 d="M349 3.5q-42 11.5 -74 31.5q-32 19 -32 54q0 20 11 32.5t27 12.5q11 0 23.5 -5t25.5 -12q26 -14 50 -22t57 -8q38 0 58.5 14t20.5 39q0 26 -22.5 40t-70.5 30q-46 15 -75 29t-49.5 41.5t-20.5 70.5q0 37 18 65t51 61q26 27 38.5 45t12.5 39q0 28 -21 43.5t-60 15.5
 q-61 0 -94 -38t-33 -108v-420q0 -28 -17 -44t-46 -16t-45.5 16t-16.5 44v402q0 123 67 189.5t190 66.5q91 0 142 -37.5t51 -104.5q0 -39 -18.5 -67.5t-53.5 -63.5q-25 -24 -37 -40.5t-12 -34.5q0 -24 21.5 -37.5t67.5 -28.5q47 -16 76 -31t50.5 -43.5t21.5 -74.5
 q0 -71 -54 -114t-143 -43q-43 0 -85 11.5z" />
@@ -1929,7 +1929,7 @@ q-41 -42 -61.5 -70.5t-25.5 -64.5q-3 -16 -13.5 -24.5t-26.5 -8.5q-17 0 -27.5 12zM1
     <glyph glyph-name="questiondown" unicode="&#xbf;" horiz-adv-x="459" 
 d="M185 370.5q-21 21.5 -21 53.5t21 53.5t53 21.5t53 -21.5t21 -53.5t-21 -53.5t-53 -21.5t-53 21.5zM115 -167.5q-47 20.5 -73.5 57.5t-26.5 84q0 35 13 62.5t32 47.5t51 48q41 35 62.5 61t26.5 63q3 16 13.5 25t25.5 9q18 0 28.5 -12t10.5 -34q0 -56 -20.5 -90t-58.5 -71
 q-29 -28 -43 -48.5t-14 -49.5q0 -32 24 -51t66 -19q37 0 71 15t76 43q27 15 41 15q17 0 29 -15.5t12 -37.5q0 -15 -5 -26t-18 -21q-41 -36 -98 -56t-117 -20q-61 0 -108 20.5z" />
-    <glyph glyph-name="quotedbl" unicode="&#x22;" horiz-adv-x="451" 
+    <glyph glyph-name="quote$DBl" unicode="&#x22;" horiz-adv-x="451" 
 d="M80 449l-24 177q-2 14 -2 19q0 31 18.5 48t48.5 17q31 0 49 -17t18 -48q0 -5 -2 -19l-23 -177q-6 -40 -41 -40q-36 0 -42 40zM289 449l-24 177q-2 14 -2 19q0 31 18.5 48t48.5 17q31 0 49 -17t18 -48q0 -5 -2 -19l-23 -177q-6 -40 -41 -40q-36 0 -42 40z" />
     <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="242" 
 d="M80 449l-24 177q-2 14 -2 19q0 31 18.5 48t48.5 17q31 0 49 -17t18 -48q0 -5 -2 -19l-23 -177q-6 -40 -41 -40q-36 0 -42 40z" />
@@ -1979,13 +1979,13 @@ l74 -126q11 -18 11 -37t-11 -37l-74 -126q-16 -27 -45 -27z" />
 d="M65 229q-12 20 -12 37q0 18 12 37l78 126q17 27 46 27q19 0 32.5 -12t13.5 -31q0 -11 -6 -25l-58 -122l58 -122q6 -13 6 -24q0 -19 -14 -31.5t-33 -12.5q-28 0 -45 27z" />
     <glyph glyph-name="guilsinglright" unicode="&#x203a;" horiz-adv-x="283" 
 d="M99 76q-19 0 -33 12.5t-14 31.5q0 11 6 24l59 122l-59 122q-6 14 -6 25q0 19 14 31t33 12q29 0 45 -27l74 -126q11 -18 11 -37t-11 -37l-74 -126q-16 -27 -45 -27z" />
-    <glyph glyph-name="quotedblbase" unicode="&#x201e;" horiz-adv-x="440" 
+    <glyph glyph-name="quote$DBlbase" unicode="&#x201e;" horiz-adv-x="440" 
 d="M177 119q21 -25 21 -73q0 -95 -66 -164q-13 -13 -28 -13t-26 10t-11 24q0 12 10 23q30 32 39 72q-29 3 -47.5 22.5t-18.5 48.5q0 32 20.5 53.5t51.5 21.5q34 0 55 -25zM369 119q21 -25 21 -73q0 -95 -66 -164q-13 -13 -28 -13t-26 10t-11 24q0 12 10 23q30 32 39 72
 q-29 3 -47.5 22.5t-18.5 48.5q0 32 20.5 53.5t51.5 21.5q34 0 55 -25z" />
-    <glyph glyph-name="quotedblleft" unicode="&#x201c;" horiz-adv-x="440" 
+    <glyph glyph-name="quote$DBlleft" unicode="&#x201c;" horiz-adv-x="440" 
 d="M179.5 558.5q18.5 -19.5 18.5 -48.5q0 -32 -20.5 -53.5t-50.5 -21.5q-34 0 -55.5 25t-21.5 73q0 94 66 165q12 13 28 13q14 0 25.5 -10.5t11.5 -24.5q0 -12 -10 -23q-30 -32 -39 -72q29 -3 47.5 -22.5zM371.5 558.5q18.5 -19.5 18.5 -48.5q0 -32 -20.5 -53.5t-50.5 -21.5
 q-34 0 -55.5 25t-21.5 73q0 94 66 165q12 13 28 13q14 0 25.5 -10.5t11.5 -24.5q0 -12 -10 -23q-30 -32 -39 -72q29 -3 47.5 -22.5z" />
-    <glyph glyph-name="quotedblright" unicode="&#x201d;" horiz-adv-x="440" 
+    <glyph glyph-name="quote$DBlright" unicode="&#x201d;" horiz-adv-x="440" 
 d="M177 685q21 -25 21 -73q0 -94 -66 -165q-12 -13 -28 -13q-14 0 -25.5 10.5t-11.5 24.5q0 12 10 23q30 32 39 72q-29 3 -47.5 22.5t-18.5 48.5q0 32 20.5 53.5t51.5 21.5q34 0 55 -25zM369 685q21 -25 21 -73q0 -94 -66 -165q-12 -13 -28 -13q-14 0 -25.5 10.5t-11.5 24.5
 q0 12 10 23q30 32 39 72q-29 3 -47.5 22.5t-18.5 48.5q0 32 20.5 53.5t51.5 21.5q34 0 55 -25z" />
     <glyph glyph-name="quoteleft" unicode="&#x2018;" horiz-adv-x="248" 
@@ -2199,7 +2199,7 @@ d="M217 25.5q-34 41.5 -34 105.5v70l-25 -27q-12 -13 -28 -13q-13 0 -22 9t-9 21q0 1
 q0 -17 -17 -29q-62 -46 -127 -46q-71 0 -105 41.5zM310 411q28 38 45.5 82t17.5 80q0 20 -8.5 33.5t-25.5 13.5q-43 0 -43 -77v-150q10 12 14 18z" />
     <glyph glyph-name="dagger" unicode="&#x2020;" horiz-adv-x="345" 
 d="M140 178.5q-13 13.5 -13 33.5v302h-60q-20 0 -33.5 13t-13.5 33q0 14 13.5 23.5t33.5 9.5h60v73q0 20 13 33.5t33 13.5t33 -13.5t13 -33.5v-73h60q20 0 33 -13t13 -33q0 -14 -13 -23.5t-33 -9.5h-60v-302q0 -20 -13.5 -33.5t-33.5 -13.5q-19 0 -32 13.5z" />
-    <glyph glyph-name="daggerdbl" unicode="&#x2021;" horiz-adv-x="345" 
+    <glyph glyph-name="dagger$DBl" unicode="&#x2021;" horiz-adv-x="345" 
 d="M140 177.5q-13 13.5 -13 33.5v73h-60q-20 0 -33.5 13t-13.5 33q0 14 13.5 23.5t33.5 9.5h60v152h-60q-20 0 -33.5 13t-13.5 33q0 14 13.5 23.5t33.5 9.5h60v72q0 20 13 33.5t33 13.5t33 -13.5t13 -33.5v-72h60q20 0 33 -13t13 -33q0 -14 -13 -23.5t-33 -9.5h-60v-152h60
 q20 0 33 -13t13 -33q0 -14 -13 -23.5t-33 -9.5h-60v-73q0 -20 -13.5 -33.5t-33.5 -13.5q-19 0 -32 13.5z" />
     <glyph glyph-name="estimated" unicode="&#x212e;" horiz-adv-x="894" 
@@ -2346,7 +2346,7 @@ d="M98.5 551.5q-7.5 -4.5 -14.5 -4.5q-13 0 -21.5 10t-5.5 26l33 134q5 23 19 34.5t3
 t14 -31q0 -14 -9 -31l-67 -125q-4 -8 -11.5 -12.5z" />
     <glyph glyph-name="macron" unicode="&#xaf;" horiz-adv-x="300" 
 d="M-3.5 624.5q-12.5 10.5 -12.5 29.5q0 20 12.5 30.5t32.5 10.5h242q20 0 32.5 -10.5t12.5 -30.5q0 -19 -12.5 -29.5t-32.5 -10.5h-242q-20 0 -32.5 10.5z" />
-    <glyph glyph-name="ogonek" unicode="&#x2db;" horiz-adv-x="300" 
+    <glyph glyph-name="ogonek" unicode="&#x2$DB;" horiz-adv-x="300" 
 d="M25 -165q-35 30 -35 78q0 50 37.5 86t107.5 45l15 -34q-76 -19 -76 -79q0 -27 16 -42t41 -15q21 0 48 9q8 2 10 2q11 0 17.5 -9t6.5 -21q0 -21 -17 -29q-36 -21 -83 -21q-53 0 -88 30z" />
     <glyph glyph-name="ring" unicode="&#x2da;" horiz-adv-x="300" 
 d="M75 582q-31 30 -31 74t31 74t75 30t75 -30t31 -74t-31 -74t-75 -30t-75 30zM182 622.5q13 13.5 13 33.5t-13 33.5t-32 13.5t-32 -13.5t-13 -33.5t13 -33.5t32 -13.5t32 13.5z" />
@@ -2606,7 +2606,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
     <hkern u1="&#x142;" u2="t" k="-21" />
     <hkern u1="&#x142;" u2="f" k="-21" />
     <hkern u1="&#x1a1;" u2="&#x3f;" k="-25" />
-    <hkern u1="&#x1edb;" u2="&#x3f;" k="-25" />
+    <hkern u1="&#x1e$DB;" u2="&#x3f;" k="-25" />
     <hkern u1="&#x1ee3;" u2="&#x3f;" k="-25" />
     <hkern u1="&#x1edd;" u2="&#x3f;" k="-25" />
     <hkern u1="&#x1edf;" u2="&#x3f;" k="-25" />
@@ -2678,7 +2678,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="-7" />
     <hkern g1="braceleft,bracketleft,parenleft"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-7" />
     <hkern g1="braceleft,bracketleft,parenleft"
 	g2="braceright,bracketright,parenright"
@@ -2687,7 +2687,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="degree"
 	k="-20" />
     <hkern g1="braceleft,bracketleft,parenleft"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-40" />
     <hkern g1="braceleft,bracketleft,parenleft"
 	g2="asterisk,asciicircum"
@@ -2711,7 +2711,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="-10" />
     <hkern g1="colon,semicolon"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="18" />
     <hkern g1="exclam,exclamdown"
 	g2="exclam"
@@ -2723,7 +2723,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="-53" />
     <hkern g1="exclam,exclamdown"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="48" />
     <hkern g1="exclam,exclamdown"
 	g2="slash,uni2215"
@@ -2765,7 +2765,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="degree"
 	k="-20" />
     <hkern g1="guillemotright,guilsinglright"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-10" />
     <hkern g1="periodcentered,bullet,braceright,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	g2="colon,semicolon"
@@ -2774,27 +2774,27 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="exclam"
 	k="-10" />
     <hkern g1="periodcentered,bullet,braceright,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="17" />
     <hkern g1="periodcentered,bullet,braceright,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	g2="asterisk,asciicircum"
 	k="30" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="exclamdown"
 	k="30" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="guillemotleft,guilsinglleft"
 	k="24" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="trademark"
 	k="47" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="degree"
 	k="18" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="10" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="asterisk,asciicircum"
 	k="10" />
     <hkern g1="question"
@@ -2810,7 +2810,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="guillemotright,guilsinglright"
 	k="20" />
     <hkern g1="question"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="47" />
     <hkern g1="question"
 	g2="question"
@@ -2825,7 +2825,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="degree"
 	k="57" />
     <hkern g1="question"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="47" />
     <hkern g1="question"
 	g2="asterisk,asciicircum"
@@ -2852,36 +2852,36 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="braceright,bracketright,parenright"
 	k="73" />
     <hkern g1="questiondown"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-63" />
     <hkern g1="questiondown"
 	g2="asterisk,asciicircum"
 	k="57" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="exclam"
 	k="-63" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="exclamdown"
 	k="57" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="guillemotright,guilsinglright"
 	k="67" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="57" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="57" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="braceright,bracketright,parenright"
 	k="-3" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="degree"
 	k="-3" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="14" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="asterisk,asciicircum"
 	k="83" />
     <hkern g1="slash,uni2215"
@@ -2903,7 +2903,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="10" />
     <hkern g1="slash,uni2215"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-7" />
     <hkern g1="slash,uni2215"
 	g2="question"
@@ -2927,7 +2927,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="-23" />
     <hkern g1="trademark,uni2116"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="56" />
     <hkern g1="trademark,uni2116"
 	g2="question"
@@ -2945,10 +2945,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="guillemotleft,guilsinglleft"
 	k="3" />
     <hkern g1="B"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="10" />
     <hkern g1="B"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="10" />
     <hkern g1="B"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -2990,7 +2990,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="degree"
 	k="3" />
     <hkern g1="C,Cacute,Ccaron,Ccedilla,uni1E08,Ccircumflex,Cdotaccent"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="3" />
     <hkern g1="C,Cacute,Ccaron,Ccedilla,uni1E08,Ccircumflex,Cdotaccent"
 	g2="z,zacute,zcaron,zdotaccent,uni1E93"
@@ -3050,13 +3050,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="18" />
     <hkern g1="AE,AEacute,E,Eacute,Ebreve,Ecaron,uni0228,uni1E1C,Ecircumflex,uni1EBE,uni1EC6,uni1EC0,uni1EC2,uni1EC4,uni0204,Edieresis,Edotaccent,uni1EB8,Egrave,uni1EBA,uni0206,Emacron,uni1E16,uni1E14,Eogonek,uni1EBC,OE"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-7" />
     <hkern g1="AE,AEacute,E,Eacute,Ebreve,Ecaron,uni0228,uni1E1C,Ecircumflex,uni1EBE,uni1EC6,uni1EC0,uni1EC2,uni1EC4,uni0204,Edieresis,Edotaccent,uni1EB8,Egrave,uni1EBA,uni0206,Emacron,uni1E16,uni1E14,Eogonek,uni1EBC,OE"
 	g2="question"
 	k="-10" />
     <hkern g1="AE,AEacute,E,Eacute,Ebreve,Ecaron,uni0228,uni1E1C,Ecircumflex,uni1EBE,uni1EC6,uni1EC0,uni1EC2,uni1EC4,uni0204,Edieresis,Edotaccent,uni1EB8,Egrave,uni1EBA,uni0206,Emacron,uni1E16,uni1E14,Eogonek,uni1EBC,OE"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-20" />
     <hkern g1="AE,AEacute,E,Eacute,Ebreve,Ecaron,uni0228,uni1E1C,Ecircumflex,uni1EBE,uni1EC6,uni1EC0,uni1EC2,uni1EC4,uni0204,Edieresis,Edotaccent,uni1EB8,Egrave,uni1EBA,uni0206,Emacron,uni1E16,uni1E14,Eogonek,uni1EBC,OE"
 	g2="slash,uni2215"
@@ -3083,7 +3083,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="13" />
     <hkern g1="AE,AEacute,E,Eacute,Ebreve,Ecaron,uni0228,uni1E1C,Ecircumflex,uni1EBE,uni1EC6,uni1EC0,uni1EC2,uni1EC4,uni0204,Edieresis,Edotaccent,uni1EB8,Egrave,uni1EBA,uni0206,Emacron,uni1E16,uni1E14,Eogonek,uni1EBC,OE"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="10" />
     <hkern g1="AE,AEacute,E,Eacute,Ebreve,Ecaron,uni0228,uni1E1C,Ecircumflex,uni1EBE,uni1EC6,uni1EC0,uni1EC2,uni1EC4,uni0204,Edieresis,Edotaccent,uni1EB8,Egrave,uni1EBA,uni0206,Emacron,uni1E16,uni1E14,Eogonek,uni1EBC,OE"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3119,7 +3119,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="2" />
     <hkern g1="F"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="10" />
     <hkern g1="F"
 	g2="question"
@@ -3140,7 +3140,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="A,Aacute,Abreve,uni1EAE,uni1EB6,uni1EB0,uni1EB2,uni1EB4,Acircumflex,uni1EA4,uni1EAC,uni1EA6,uni1EA8,uni1EAA,uni0200,Adieresis,uni1EA0,Agrave,uni1EA2,uni0202,Amacron,Aogonek,Aring,Aringacute,Atilde,AE,AEacute,uni0394"
 	k="3" />
     <hkern g1="F"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-10" />
     <hkern g1="F"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3185,7 +3185,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="18" />
     <hkern g1="G,Gbreve,Gcaron,Gcircumflex,Gcommaaccent,Gdotaccent,uni1E20"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-12" />
     <hkern g1="G,Gbreve,Gcaron,Gcircumflex,Gcommaaccent,Gdotaccent,uni1E20"
 	g2="braceright,bracketright,parenright"
@@ -3230,13 +3230,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="23" />
     <hkern g1="uni1E9E"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="8" />
     <hkern g1="uni1E9E"
 	g2="question"
 	k="-7" />
     <hkern g1="uni1E9E"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="32" />
     <hkern g1="uni1E9E"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -3263,7 +3263,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="15" />
     <hkern g1="uni1E9E"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="58" />
     <hkern g1="uni1E9E"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3314,7 +3314,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="f,fi,fl"
 	k="10" />
     <hkern g1="J,Jcircumflex,uni01C7,uni01CA,Iacute_J.loclNLD,I_J.loclNLD"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="13" />
     <hkern g1="J,Jcircumflex,uni01C7,uni01CA,Iacute_J.loclNLD,I_J.loclNLD"
 	g2="slash,uni2215"
@@ -3329,7 +3329,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="z,zacute,zcaron,zdotaccent,uni1E93"
 	k="-2" />
     <hkern g1="J,Jcircumflex,uni01C7,uni01CA,Iacute_J.loclNLD,I_J.loclNLD"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="7" />
     <hkern g1="J,Jcircumflex,uni01C7,uni01CA,Iacute_J.loclNLD,I_J.loclNLD"
 	g2="exclam"
@@ -3395,7 +3395,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="degree"
 	k="6" />
     <hkern g1="D,Eth,Dcaron,Dcroat,uni1E0C,uni1E0E,O,Oacute,Obreve,Ocircumflex,uni1ED0,uni1ED8,uni1ED2,uni1ED4,uni1ED6,uni020C,Odieresis,uni022A,uni0230,uni1ECC,Ograve,uni1ECE,Ohorn,uni1EDA,uni1EE2,uni1EDC,uni1EDE,uni1EE0,Ohungarumlaut,uni020E,Omacron,uni1E52,uni1E50,uni01EA,Oslash,Oslashacute,Otilde,uni1E4C,uni1E4E,uni022C,Q,uni018F,at,copyright,registered"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="20" />
     <hkern g1="D,Eth,Dcaron,Dcroat,uni1E0C,uni1E0E,O,Oacute,Obreve,Ocircumflex,uni1ED0,uni1ED8,uni1ED2,uni1ED4,uni1ED6,uni020C,Odieresis,uni022A,uni0230,uni1ECC,Ograve,uni1ECE,Ohorn,uni1EDA,uni1EE2,uni1EDC,uni1EDE,uni1EE0,Ohungarumlaut,uni020E,Omacron,uni1E52,uni1E50,uni01EA,Oslash,Oslashacute,Otilde,uni1E4C,uni1E4E,uni022C,Q,uni018F,at,copyright,registered"
 	g2="braceright,bracketright,parenright"
@@ -3407,7 +3407,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="-30" />
     <hkern g1="P"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="27" />
     <hkern g1="P"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3446,13 +3446,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="17" />
     <hkern g1="R,Racute,Rcaron,Rcommaaccent,uni0210,uni1E5A,uni0212,uni1E5E"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="13" />
     <hkern g1="R,Racute,Rcaron,Rcommaaccent,uni0210,uni1E5A,uni0212,uni1E5E"
 	g2="question"
 	k="33" />
     <hkern g1="R,Racute,Rcaron,Rcommaaccent,uni0210,uni1E5A,uni0212,uni1E5E"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="33" />
     <hkern g1="R,Racute,Rcaron,Rcommaaccent,uni0210,uni1E5A,uni0212,uni1E5E"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -3482,7 +3482,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="17" />
     <hkern g1="R,Racute,Rcaron,Rcommaaccent,uni0210,uni1E5A,uni0212,uni1E5E"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="13" />
     <hkern g1="R,Racute,Rcaron,Rcommaaccent,uni0210,uni1E5A,uni0212,uni1E5E"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3533,7 +3533,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="question"
 	k="-40" />
     <hkern g1="S,Sacute,uni1E64,Scaron,uni1E66,Scedilla,Scircumflex,Scommaaccent,uni1E60,uni1E62,uni1E68"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="38" />
     <hkern g1="S,Sacute,uni1E64,Scaron,uni1E66,Scedilla,Scircumflex,Scommaaccent,uni1E60,uni1E62,uni1E68"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -3560,7 +3560,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="13" />
     <hkern g1="S,Sacute,uni1E64,Scaron,uni1E66,Scedilla,Scircumflex,Scommaaccent,uni1E60,uni1E62,uni1E68"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="20" />
     <hkern g1="S,Sacute,uni1E64,Scaron,uni1E66,Scedilla,Scircumflex,Scommaaccent,uni1E60,uni1E62,uni1E68"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3620,7 +3620,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="65" />
     <hkern g1="T,Tbar,Tcaron,uni0162,uni021A,uni1E6C,uni1E6E"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="38" />
     <hkern g1="T,Tbar,Tcaron,uni0162,uni021A,uni1E6C,uni1E6E"
 	g2="slash,uni2215"
@@ -3635,7 +3635,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="A,Aacute,Abreve,uni1EAE,uni1EB6,uni1EB0,uni1EB2,uni1EB4,Acircumflex,uni1EA4,uni1EAC,uni1EA6,uni1EA8,uni1EAA,uni0200,Adieresis,uni1EA0,Agrave,uni1EA2,uni0202,Amacron,Aogonek,Aring,Aringacute,Atilde,AE,AEacute,uni0394"
 	k="-3" />
     <hkern g1="T,Tbar,Tcaron,uni0162,uni021A,uni1E6C,uni1E6E"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="33" />
     <hkern g1="T,Tbar,Tcaron,uni0162,uni021A,uni1E6C,uni1E6E"
 	g2="exclam"
@@ -3665,7 +3665,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="15" />
     <hkern g1="Thorn"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="7" />
     <hkern g1="Thorn"
 	g2="slash,uni2215"
@@ -3698,7 +3698,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="guillemotleft,guilsinglleft"
 	k="7" />
     <hkern g1="U,Uacute,Ubreve,Ucircumflex,uni0214,Udieresis,uni1EE4,Ugrave,uni1EE6,Uhungarumlaut,uni0216,Umacron,uni1E7A,Uogonek,Uring,Utilde,uni1E78"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="67" />
     <hkern g1="U,Uacute,Ubreve,Ucircumflex,uni0214,Udieresis,uni1EE4,Ugrave,uni1EE6,Uhungarumlaut,uni0216,Umacron,uni1E7A,Uogonek,Uring,Utilde,uni1E78"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -3779,13 +3779,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-17" />
     <hkern g1="Uhorn,uni1EE8,uni1EF0,uni1EEA,uni1EEC,uni1EEE"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-10" />
     <hkern g1="Uhorn,uni1EE8,uni1EF0,uni1EEA,uni1EEC,uni1EEE"
 	g2="question"
 	k="-3" />
     <hkern g1="Uhorn,uni1EE8,uni1EF0,uni1EEA,uni1EEC,uni1EEE"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="10" />
     <hkern g1="Uhorn,uni1EE8,uni1EF0,uni1EEA,uni1EEC,uni1EEE"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -3893,7 +3893,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="guillemotright,guilsinglright"
 	k="-20" />
     <hkern g1="V,W,Wacute,Wcircumflex,Wdieresis,Wgrave"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="3" />
     <hkern g1="V,W,Wacute,Wcircumflex,Wdieresis,Wgrave"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -3959,7 +3959,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="7" />
     <hkern g1="X"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-3" />
     <hkern g1="X"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -4013,10 +4013,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-5" />
     <hkern g1="Y,Yacute,Ycircumflex,Ydieresis,uni1E8E,uni1EF4,Ygrave,uni1EF6,uni0232,uni1EF8"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="7" />
     <hkern g1="Y,Yacute,Ycircumflex,Ydieresis,uni1E8E,uni1EF4,Ygrave,uni1EF6,uni0232,uni1EF8"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="8" />
     <hkern g1="Y,Yacute,Ycircumflex,Ydieresis,uni1E8E,uni1EF4,Ygrave,uni1EF6,uni0232,uni1EF8"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -4052,10 +4052,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-15" />
     <hkern g1="uni01C4,Z,Zacute,Zcaron,Zdotaccent,uni1E92"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="2" />
     <hkern g1="uni01C4,Z,Zacute,Zcaron,Zdotaccent,uni1E92"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-17" />
     <hkern g1="uni01C4,Z,Zacute,Zcaron,Zdotaccent,uni1E92"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -4088,7 +4088,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="38" />
     <hkern g1="uni01C4,Z,Zacute,Zcaron,Zdotaccent,uni1E92"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-50" />
     <hkern g1="uni01C4,Z,Zacute,Zcaron,Zdotaccent,uni1E92"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
@@ -4151,13 +4151,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-37" />
     <hkern g1="uni01C5,uni01C6,z,zacute,zcaron,zdotaccent,uni1E93"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-7" />
     <hkern g1="uni01C5,uni01C6,z,zacute,zcaron,zdotaccent,uni1E93"
 	g2="question"
 	k="78" />
     <hkern g1="uni01C5,uni01C6,z,zacute,zcaron,zdotaccent,uni1E93"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="11" />
     <hkern g1="uni01C5,uni01C6,z,zacute,zcaron,zdotaccent,uni1E93"
 	g2="slash,uni2215"
@@ -4181,7 +4181,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="30" />
     <hkern g1="uni01C5,uni01C6,z,zacute,zcaron,zdotaccent,uni1E93"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="3" />
     <hkern g1="uni01C5,uni01C6,z,zacute,zcaron,zdotaccent,uni1E93"
 	g2="dotlessi,uni0237,kgreenlandic,m,uni1E43,n,nacute,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni01CC,uni1E49,ntilde,p,r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F,uni03BC,uni00B5"
@@ -4220,7 +4220,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="f,fi,fl"
 	k="3" />
     <hkern g1="colon,semicolon"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-10" />
     <hkern g1="colon,semicolon"
 	g2="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
@@ -4273,29 +4273,29 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
     <hkern g1="periodcentered,bullet,braceright,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	g2="dotlessi,uni0237,kgreenlandic,m,uni1E43,n,nacute,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni01CC,uni1E49,ntilde,p,r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F,uni03BC,uni00B5"
 	k="3" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="ordfeminine,ordmasculine"
 	k="3" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
 	k="47" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
 	k="10" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="C,Cacute,Ccaron,Ccedilla,uni1E08,Ccircumflex,Cdotaccent,G,Gbreve,Gcaron,Gcircumflex,Gcommaaccent,Gdotaccent,uni1E20,O,Oacute,Obreve,Ocircumflex,uni1ED0,uni1ED8,uni1ED2,uni1ED4,uni1ED6,uni020C,Odieresis,uni022A,uni0230,uni1ECC,Ograve,uni1ECE,Ohorn,uni1EDA,uni1EE2,uni1EDC,uni1EDE,uni1EE0,Ohungarumlaut,uni020E,Omacron,uni1E52,uni1E50,uni01EA,Oslash,Oslashacute,Otilde,uni1E4C,uni1E4E,uni022C,OE,Q,uni018F,at,copyright,registered"
 	k="60" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="T,Tbar,Tcaron,uni0162,uni021A,uni1E6C,uni1E6E"
 	k="3" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="z,zacute,zcaron,zdotaccent,uni1E93"
 	k="-10" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
 	k="10" />
-    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+    <hkern g1="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="60" />
     <hkern g1="question"
 	g2="A,Aacute,Abreve,uni1EAE,uni1EB6,uni1EB0,uni1EB2,uni1EB4,Acircumflex,uni1EA4,uni1EAC,uni1EA6,uni1EA8,uni1EAA,uni0200,Adieresis,uni1EA0,Agrave,uni1EA2,uni0202,Amacron,Aogonek,Aring,Aringacute,Atilde,AE,AEacute,uni0394"
@@ -4307,7 +4307,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="X"
 	k="-10" />
     <hkern g1="question"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="10" />
     <hkern g1="question"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -4328,13 +4328,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="dotlessi,uni0237,kgreenlandic,m,uni1E43,n,nacute,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni01CC,uni1E49,ntilde,p,r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F,uni03BC,uni00B5"
 	k="13" />
     <hkern g1="question"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="57" />
     <hkern g1="questiondown"
 	g2="A,Aacute,Abreve,uni1EAE,uni1EB6,uni1EB0,uni1EB2,uni1EB4,Acircumflex,uni1EA4,uni1EAC,uni1EA6,uni1EA8,uni1EAA,uni0200,Adieresis,uni1EA0,Agrave,uni1EA2,uni0202,Amacron,Aogonek,Aring,Aringacute,Atilde,AE,AEacute,uni0394"
 	k="-2" />
     <hkern g1="questiondown"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="18" />
     <hkern g1="questiondown"
 	g2="ordfeminine,ordmasculine"
@@ -4364,46 +4364,46 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="dotlessi,uni0237,kgreenlandic,m,uni1E43,n,nacute,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni01CC,uni1E49,ntilde,p,r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F,uni03BC,uni00B5"
 	k="65" />
     <hkern g1="questiondown"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="27" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="A,Aacute,Abreve,uni1EAE,uni1EB6,uni1EB0,uni1EB2,uni1EB4,Acircumflex,uni1EA4,uni1EAC,uni1EA6,uni1EA8,uni1EAA,uni0200,Adieresis,uni1EA0,Agrave,uni1EA2,uni0202,Amacron,Aogonek,Aring,Aringacute,Atilde,AE,AEacute,uni0394"
 	k="10" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="V,W,Wacute,Wcircumflex,Wdieresis,Wgrave"
 	k="-10" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="f,fi,fl"
 	k="18" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="7" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="ordfeminine,ordmasculine"
 	k="65" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="27" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
 	k="13" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
 	k="-2" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="C,Cacute,Ccaron,Ccedilla,uni1E08,Ccircumflex,Cdotaccent,G,Gbreve,Gcaron,Gcircumflex,Gcommaaccent,Gdotaccent,uni1E20,O,Oacute,Obreve,Ocircumflex,uni1ED0,uni1ED8,uni1ED2,uni1ED4,uni1ED6,uni020C,Odieresis,uni022A,uni0230,uni1ECC,Ograve,uni1ECE,Ohorn,uni1EDA,uni1EE2,uni1EDC,uni1EDE,uni1EE0,Ohungarumlaut,uni020E,Omacron,uni1E52,uni1E50,uni01EA,Oslash,Oslashacute,Otilde,uni1E4C,uni1E4E,uni022C,OE,Q,uni018F,at,copyright,registered"
 	k="10" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="U,Uacute,Ubreve,Ucircumflex,uni0214,Udieresis,uni1EE4,Ugrave,uni1EE6,Uhorn,uni1EE8,uni1EF0,uni1EEA,uni1EEC,uni1EEE,Uhungarumlaut,uni0216,Umacron,uni1E7A,Uogonek,Uring,Utilde,uni1E78"
 	k="15" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79"
 	k="28" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	g2="dotlessi,uni0237,kgreenlandic,m,uni1E43,n,nacute,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni01CC,uni1E49,ntilde,p,r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F,uni03BC,uni00B5"
 	k="43" />
-    <hkern g1="quotedblleft,quotedblright,quoteleft,quoteright"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+    <hkern g1="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="23" />
     <hkern g1="slash,uni2215"
 	g2="A,Aacute,Abreve,uni1EAE,uni1EB6,uni1EB0,uni1EB2,uni1EB4,Acircumflex,uni1EA4,uni1EAC,uni1EA6,uni1EA8,uni1EAA,uni0200,Adieresis,uni1EA0,Agrave,uni1EA2,uni0202,Amacron,Aogonek,Aring,Aringacute,Atilde,AE,AEacute,uni0394"
@@ -4412,7 +4412,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="f,fi,fl"
 	k="15" />
     <hkern g1="slash,uni2215"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="28" />
     <hkern g1="slash,uni2215"
 	g2="ordfeminine,ordmasculine"
@@ -4442,7 +4442,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="dotlessi,uni0237,kgreenlandic,m,uni1E43,n,nacute,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni01CC,uni1E49,ntilde,p,r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F,uni03BC,uni00B5"
 	k="21" />
     <hkern g1="slash,uni2215"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="10" />
     <hkern g1="ae,aeacute,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,oe"
 	g2="slash,uni2215"
@@ -4475,13 +4475,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="exclam"
 	k="29" />
     <hkern g1="ae,aeacute,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,oe"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="20" />
     <hkern g1="ae,aeacute,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,oe"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="-13" />
     <hkern g1="ae,aeacute,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,oe"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="10" />
     <hkern g1="f"
 	g2="braceright,bracketright,parenright"
@@ -4502,10 +4502,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-13" />
     <hkern g1="f"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="10" />
     <hkern g1="f"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="8" />
     <hkern g1="f"
 	g2="slash,uni2215"
@@ -4526,69 +4526,69 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="exclam"
 	k="10" />
     <hkern g1="f"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="10" />
     <hkern g1="f"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="-70" />
     <hkern g1="f"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="27" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="braceright,bracketright,parenright"
 	k="-53" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="colon,semicolon"
 	k="-7" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="f,fi,fl"
 	k="9" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="guillemotleft,guilsinglleft"
 	k="10" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="guillemotright,guilsinglright"
 	k="10" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="ordfeminine,ordmasculine"
 	k="-70" />
-    <hkern g1="germandbls"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+    <hkern g1="german$DBls"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="27" />
-    <hkern g1="germandbls"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+    <hkern g1="german$DBls"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-33" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
 	k="27" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="trademark"
 	k="-60" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="degree"
 	k="-37" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="asterisk,asciicircum"
 	k="-28" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="periodcentered,bullet,braceleft,emdash,endash,figuredash,uni2015,hyphen,uni2010,uni00AD,uni2219"
 	k="10" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="question"
 	k="-50" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
 	k="-20" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="5" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="exclam"
 	k="-20" />
-    <hkern g1="germandbls"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+    <hkern g1="german$DBls"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="5" />
-    <hkern g1="germandbls"
+    <hkern g1="german$DBls"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="5" />
     <hkern g1="k,kcommaaccent,kgreenlandic"
@@ -4622,13 +4622,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="x"
 	k="18" />
     <hkern g1="k,kcommaaccent,kgreenlandic"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="48" />
     <hkern g1="k,kcommaaccent,kgreenlandic"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="-7" />
     <hkern g1="k,kcommaaccent,kgreenlandic"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="40" />
     <hkern g1="dcaron,lcaron"
 	g2="braceright,bracketright,parenright"
@@ -4643,10 +4643,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-7" />
     <hkern g1="dcaron,lcaron"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="40" />
     <hkern g1="dcaron,lcaron"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="28" />
     <hkern g1="dcaron,lcaron"
 	g2="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
@@ -4661,13 +4661,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="exclam"
 	k="20" />
     <hkern g1="dcaron,lcaron"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="8" />
     <hkern g1="dcaron,lcaron"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="-3" />
     <hkern g1="dcaron,lcaron"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="-13" />
     <hkern g1="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,h,hbar,uni1E2B,hcircumflex,uni1E25,m,uni1E43,n,nacute,napostrophe,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni1E49,ntilde"
 	g2="guillemotleft,guilsinglleft"
@@ -4679,10 +4679,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-3" />
     <hkern g1="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,h,hbar,uni1E2B,hcircumflex,uni1E25,m,uni1E43,n,nacute,napostrophe,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni1E49,ntilde"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-13" />
     <hkern g1="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,h,hbar,uni1E2B,hcircumflex,uni1E25,m,uni1E43,n,nacute,napostrophe,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni1E49,ntilde"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="6" />
     <hkern g1="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,h,hbar,uni1E2B,hcircumflex,uni1E25,m,uni1E43,n,nacute,napostrophe,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni1E49,ntilde"
 	g2="slash,uni2215"
@@ -4715,43 +4715,43 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,ae,aeacute"
 	k="2" />
     <hkern g1="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,h,hbar,uni1E2B,hcircumflex,uni1E25,m,uni1E43,n,nacute,napostrophe,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni1E49,ntilde"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="7" />
     <hkern g1="a,aacute,abreve,uni1EAF,uni1EB7,uni1EB1,uni1EB3,uni1EB5,uni01CE,acircumflex,uni1EA5,uni1EAD,uni1EA7,uni1EA9,uni1EAB,uni0201,adieresis,uni0227,uni1EA1,agrave,uni1EA3,uni0203,amacron,aogonek,aring,aringacute,atilde,h,hbar,uni1E2B,hcircumflex,uni1E25,m,uni1E43,n,nacute,napostrophe,ncaron,ncommaaccent,uni1E45,uni1E47,eng,uni1E49,ntilde"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="7" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="braceright,bracketright,parenright"
 	k="5" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="colon,semicolon"
 	k="10" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="f,fi,fl"
 	k="2" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="guillemotright,guilsinglright"
 	k="7" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="ordfeminine,ordmasculine"
 	k="7" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="slash,uni2215"
 	k="-64" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
 	g2="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
 	k="-6" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-37" />
-    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+    <hkern g1="b,eth,uni0259,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,p,thorn"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="-67" />
     <hkern g1="q"
 	g2="guillemotright,guilsinglright"
 	k="-37" />
     <hkern g1="q"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-67" />
     <hkern g1="q"
 	g2="question"
@@ -4763,7 +4763,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="22" />
     <hkern g1="r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="17" />
     <hkern g1="r,racute,rcaron,rcommaaccent,uni0211,uni1E5B,uni0213,uni1E5F"
 	g2="trademark"
@@ -4808,13 +4808,13 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="exclam"
 	k="35" />
     <hkern g1="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="20" />
     <hkern g1="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="-15" />
     <hkern g1="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="10" />
     <hkern g1="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
 	g2="colon,semicolon"
@@ -4832,10 +4832,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="-15" />
     <hkern g1="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="10" />
     <hkern g1="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="8" />
     <hkern g1="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
 	g2="slash,uni2215"
@@ -4847,10 +4847,10 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="question"
 	k="3" />
     <hkern g1="g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,dotlessi,u,uacute,ubreve,ucircumflex,uni0215,udieresis,uni1EE5,ugrave,uni1EE7,uhungarumlaut,uni0217,umacron,uni1E7B,uogonek,uring,utilde,uni1E79,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01,uni03BC,uni00B5"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="-51" />
     <hkern g1="uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="-51" />
     <hkern g1="uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF"
 	g2="slash,uni2215"
@@ -4886,7 +4886,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="exclam"
 	k="-40" />
     <hkern g1="uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-38" />
     <hkern g1="uhorn,uni1EE9,uni1EF1,uni1EEB,uni1EED,uni1EEF"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
@@ -4907,7 +4907,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="ordfeminine,ordmasculine"
 	k="18" />
     <hkern g1="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="-30" />
     <hkern g1="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
 	g2="slash,uni2215"
@@ -4931,16 +4931,16 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"
 	k="8" />
     <hkern g1="v,w,wacute,wcircumflex,wdieresis,wgrave,y,yacute,ycircumflex,ydieresis,uni1E8F,uni1EF5,ygrave,uni1EF7,uni0233,uni1EF9"
-	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,germandbls,i_j.loclNLD"
+	g2="b,h,hbar,uni1E2B,hcircumflex,uni1E25,i,iacute,ibreve,icircumflex,uni0209,idieresis,uni1E2F,i.loclTRK,uni1ECB,igrave,uni1EC9,uni020B,imacron,iogonek,itilde,j,jcircumflex,k,kcommaaccent,l,lacute,lcaron,lcommaaccent,ldot,uni1E37,uni01C9,uni1E3B,thorn,german$DBls,i_j.loclNLD"
 	k="5" />
     <hkern g1="x"
 	g2="ordfeminine,ordmasculine"
 	k="8" />
     <hkern g1="x"
-	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quotedblbase,quotesinglbase"
+	g2="comma,ellipsis,period,underscore,periodcentered.loclCAT,quote$DBlbase,quotesinglbase"
 	k="5" />
     <hkern g1="x"
-	g2="quotedblleft,quotedblright,quoteleft,quoteright"
+	g2="quote$DBlleft,quote$DBlright,quoteleft,quoteright"
 	k="27" />
     <hkern g1="x"
 	g2="t,tbar,tcaron,uni0163,uni021B,uni1E97,uni1E6D,uni1E6F"
@@ -4988,7 +4988,7 @@ t-47.5 -12.5q-30 0 -84 20zM-255 761q-16 0 -28 11t-12 26q0 20 21 34l78 63q23 17 4
 	g2="f,fi,fl"
 	k="24" />
     <hkern g1="trademark,uni2116"
-	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1EDB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
+	g2="c,cacute,ccaron,ccedilla,uni1E09,ccircumflex,cdotaccent,d,eth,dcaron,dcroat,uni1E0D,uni1E0F,uni01C6,e,eacute,ebreve,ecaron,uni1E1D,ecircumflex,uni1EBF,uni1EC7,uni1EC1,uni1EC3,uni1EC5,uni0205,edieresis,edotaccent,uni1EB9,egrave,uni1EBB,uni0207,emacron,uni1E17,uni1E15,eogonek,uni1EBD,uni0259,g,gbreve,gcaron,gcircumflex,gcommaaccent,gdotaccent,uni1E21,o,oacute,obreve,ocircumflex,uni1ED1,uni1ED9,uni1ED3,uni1ED5,uni1ED7,uni020D,odieresis,uni022B,uni0231,uni1ECD,ograve,uni1ECF,ohorn,uni1E$DB,uni1EE3,uni1EDD,uni1EDF,uni1EE1,ohungarumlaut,uni020F,omacron,uni1E53,uni1E51,uni01EB,oslash,oslashacute,otilde,uni1E4D,uni1E4F,uni022D,oe,q,a.ss01,aacute.ss01,abreve.ss01,uni1EAF.ss01,uni1EB7.ss01,uni1EB1.ss01,uni1EB3.ss01,uni1EB5.ss01,uni01CE.ss01,acircumflex.ss01,uni1EA5.ss01,uni1EAD.ss01,uni1EA7.ss01,uni1EA9.ss01,uni1EAB.ss01,uni0201.ss01,adieresis.ss01,uni0227.ss01,uni1EA1.ss01,agrave.ss01,uni1EA3.ss01,uni0203.ss01,amacron.ss01,aogonek.ss01,aring.ss01,aringacute.ss01,atilde.ss01"
 	k="-12" />
     <hkern g1="trademark,uni2116"
 	g2="s,sacute,uni1E65,scaron,uni1E67,scedilla,scircumflex,scommaaccent,uni1E61,uni1E63,uni1E69"

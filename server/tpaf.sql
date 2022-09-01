@@ -4,7 +4,7 @@
 --
 -- Host: 127.0.0.1
 -- Generation Time: Aug 27, 2022 at 01:22 PM
--- Server version: 10.4.18-MariaDB
+-- Server version: 10.4.18-Maria$DB
 -- PHP Version: 8.0.3
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -15,7 +15,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
+/*!40101 SET NAMES utf8 */;
 
 --
 -- Database: `tpaf`
@@ -35,7 +35,7 @@ CREATE TABLE `applicant` (
   `sname` varchar(15) NOT NULL,
   `applicant_img` varchar(100) NOT NULL,
   `phone_number` int(15) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=Inno$DB DEFAULT ;
 
 -- --------------------------------------------------------
 
@@ -50,7 +50,7 @@ CREATE TABLE `application_window` (
   `application_limit` varchar(10) NOT NULL,
   `status` varchar(15) NOT NULL,
   `numbe_applicant` varchar(15) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=Inno$DB DEFAULT ;
 
 -- --------------------------------------------------------
 
@@ -62,7 +62,7 @@ CREATE TABLE `depertmeant` (
   `dep_id` int(11) NOT NULL,
   `dep_name` varchar(20) NOT NULL,
   `dep_member` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=Inno$DB DEFAULT ;
 
 -- --------------------------------------------------------
 
@@ -77,7 +77,7 @@ CREATE TABLE `stafftable` (
   `fname` varchar(15) NOT NULL,
   `sname` varchar(15) NOT NULL,
   `staff_img` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=Inno$DB DEFAULT ;
 
 --
 -- Indexes for dumped tables

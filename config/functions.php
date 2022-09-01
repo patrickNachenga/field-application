@@ -1,6 +1,5 @@
 <?php
 require_once('Constant.php');
-include('server/database.php');
 
 /**
  * @param string $userTable
@@ -10,7 +9,7 @@ function userData(string $userTable){
     try{
         $user = $_SESSION['user'];
         $sql = "SELECT * FROM ".DB_NAME.".".$userTable." WHERE ".DB_NAME.".".$userTable.".guid = '{$user['guid']}' LIMIT 1;";
-        $run = mysqli_query(DB, $sql);
+        $run = mysqli_query(db(), $sql);
         if(mysqli_num_rows($run) == 0){
             //user Sedentary longed in clear his session and redirect to login page
             unset($_SESSION['user']);
