@@ -62,7 +62,7 @@ function signup(form){
             firstName:firstName, lastName:lastName, email:email, gender:gender, contact:contact, password:confirmPassword
         },
         success: function (response) {
-            console.log(response);
+           // console.log(response);
             if(response.code === 200){
                 authResponse(response.message,"green");
                 setTimeout(()=>{
@@ -73,7 +73,7 @@ function signup(form){
             }
         },
         error: function (errors) {
-            console.log(errors);
+           // console.log(errors);
             authResponse(errors.message);
         }
     })
@@ -82,7 +82,7 @@ function signup(form){
 }
 
 function authResponse(message, color = ''){
-    (color === '') ? color = "red": true;
+    (color === '') ? color = "red" : true ;
     let respDiv = $("#respDiv");
     let button = $("#submitButton");
     respDiv.html(message);

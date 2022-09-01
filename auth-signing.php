@@ -10,9 +10,8 @@ if(isset($_POST['email'], $_POST['password'])){
     $password = hash_hmac('sha256',"email=".$email."&password=".$password, APP_KEY);
     try {
         $isLogin = false;
-
         //=========== APPLICANT LOGIN PROCESS ==============
-        $sql = "SELECT * FROM ".DB_NAME.".applicant WHERE ".DB_NAME.".applicant.email = '$email' AND ".DB_NAME.".applicant.password = '$password' LIMIT 1;";
+        $sql = "SELECT * FROM ".DB_NAME.".applicant WHERE applicant.email = '$email' AND applicant.password = '$password' LIMIT 1;";
         $run = mysqli_query($DB, $sql);
         if($run and mysqli_num_rows($run) > 0){
             //applicant signed in, save session

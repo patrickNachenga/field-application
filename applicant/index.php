@@ -8,8 +8,6 @@ include('config/functions.php');
 $userData = userData('applicant');
 
 
-
-
 ?>
 <!-- Begin page -->
 <div class="wrapper">
@@ -118,6 +116,10 @@ $userData = userData('applicant');
                             <div class="card-body">
                                 <h4 class="header-title mt-0 mb-3">Applicant Information</h4>
                                 <p class="text-muted font-13" style="min-height: 70px">
+
+                                <?php
+                                    if()
+                                ?>
                                     <?= $userData['bio'] ?? "Write something that make easy for you to win in Field position"; ?>
                                 </p>
 
