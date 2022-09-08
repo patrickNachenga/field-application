@@ -2,7 +2,6 @@
 require_once('Constant.php');
 require_once("server/database.php");
 
-
 ?>
 
 

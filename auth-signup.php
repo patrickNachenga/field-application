@@ -11,7 +11,7 @@ if(isset($_POST['firstName'],
         $_POST['contact'],
         $_POST['password'],
     )){
-
+    $DB = db();
     $fName = mysqli_real_escape_string($DB, $_POST['firstName']);
     $lName = mysqli_real_escape_string($DB, $_POST['lastName']);
     $email = mysqli_real_escape_string($DB, $_POST['email']);

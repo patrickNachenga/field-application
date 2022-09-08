@@ -33,3 +33,23 @@ function userData(string $userTable){
     }
 
 }
+
+
+
+function getStaffs(){
+    try {
+        $DB = db();
+        //applicant signup script
+        $sql = "SELECT * FROM ".DB_NAME.".staff WHERE true ORDER BY ".DB_NAME.".staff.f_name ASC;";
+        $run = mysqli_query($DB, $sql);
+        if(mysqli_num_rows($run) > 0){
+            while($staff = mysqli_fetch_assoc($run)):
+                    echo "<option value='{$staff['ID']}'>".ucfirst($staff['f_name']." ".$staff['s_name'])."</option>";
+            endwhile;
+        }else{
+            echo "";
+        }
+    }catch(Exception $e){
+        echo "";
+    }
+}

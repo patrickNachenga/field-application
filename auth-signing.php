@@ -5,6 +5,7 @@ include_once("server/database.php");
 $response = array();
 
 if(isset($_POST['email'], $_POST['password'])){
+    $DB = db();
     $email = mysqli_real_escape_string($DB, $_POST['email']);
     $password = mysqli_real_escape_string($DB, $_POST['password']);
     $password = hash_hmac('sha256',"email=".$email."&password=".$password, APP_KEY);
@@ -47,6 +48,7 @@ if(isset($_POST['email'], $_POST['password'])){
                 $response["message"] = "Incorrect username or password";
             }
         }
+
     }catch(Exception $e){
         //there are error caught while creating account
         $response["code"] = 500;
